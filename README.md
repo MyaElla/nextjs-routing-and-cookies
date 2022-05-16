@@ -1,3 +1,5 @@
+🗃️ APPLY changes to cookies to fork of original in https://github.com/MyaElla/nextdemo-starter-app-addcookies - a Next JS project to try out dynamic routing, static and SSR props, cookies
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
